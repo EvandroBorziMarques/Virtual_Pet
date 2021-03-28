@@ -1,0 +1,7 @@
+C:\Users\marqu\Documents\GitHub\Virtual_Pet\VirtualPet\VirtualPet\bin\Debug\VirtualPet.exe.config
+C:\Users\marqu\Documents\GitHub\Virtual_Pet\VirtualPet\VirtualPet\bin\Debug\VirtualPet.exe
+C:\Users\marqu\Documents\GitHub\Virtual_Pet\VirtualPet\VirtualPet\bin\Debug\VirtualPet.pdb
+C:\Users\marqu\Documents\GitHub\Virtual_Pet\VirtualPet\VirtualPet\obj\Debug\VirtualPet.csprojAssemblyReference.cache
+C:\Users\marqu\Documents\GitHub\Virtual_Pet\VirtualPet\VirtualPet\obj\Debug\VirtualPet.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Documents\GitHub\Virtual_Pet\VirtualPet\VirtualPet\obj\Debug\VirtualPet.exe
+C:\Users\marqu\Documents\GitHub\Virtual_Pet\VirtualPet\VirtualPet\obj\Debug\VirtualPet.pdb
