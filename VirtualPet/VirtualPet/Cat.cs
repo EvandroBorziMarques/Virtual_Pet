@@ -6,17 +6,16 @@ using System.Threading.Tasks;
 
 namespace VirtualPet
 {
-    public class Dog : Pet
-    {
-        //Peso em KG.
+    public class Cat : Pet
+    {      
+
         public double Weight { get; set; }
-        //Altura em cm.
         public double Height { get; set; }
 
-        public Dog(string name, string color) : base(name, color)
+        public Cat(string name, string color) : base(name, color)
         {
-            Weight = 2.0;
-            Height = 10.0;
+            Weight = 1.5;
+            Height = 9.0;
         }
 
         //Método de alimentar o Pet
@@ -24,12 +23,11 @@ namespace VirtualPet
         {
             Weight += 0.5;
 
-            if (Height >= 20)
+            if (Height > 20)
             {
                 Height = Height;
-                return;
             }
-            Height += 3;
+            Height += 0.5;
         }
 
         public void passear()
